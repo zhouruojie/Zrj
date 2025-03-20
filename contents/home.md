@@ -9,11 +9,5 @@ I'm currently pursuing a Undergraduate's degree in Marine Engineer at the Huangz
 **Huangzhong University of Science and Technology**, Undergraduate(2024 – 2028)  
 • GPA: 75/100  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
 #### Research Interests  
 Marine Engineer
