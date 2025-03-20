@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 全国搜救无人艇比赛 三等奖, 2024.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 暂无
