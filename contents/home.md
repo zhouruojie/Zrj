@@ -1,14 +1,13 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Undergraduate's degree in XX at the Huangzhong University of Science and Technology.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>3473864880@qq.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Huangzhong University of Science and Technology**, Undergraduate(2024 – 2028)  
+• GPA: 75/100  
 
 **XX University**, Exchange student <br>  
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
@@ -17,4 +16,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Marine Engineer
