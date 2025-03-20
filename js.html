@@ -1,0 +1,21 @@
+<head><title>嘿，这是一个对话框</title></head>
+<script language="JavaScript">
+<body>
+    <script>
+        function showMessage() {
+            
+            alert("欢迎使用本网站！");
+            
+            // 改变背景色
+            const randomColor = Math.floor(Math.random()*16777215).toString(16);
+            document.body.style.backgroundColor = "#" + randomColor;
+            
+            // 显示当前时间
+            const currentTime = new Date().toString();
+            alert("当前时间: " + currentTime);
+        }
+
+        // 页面加载时执行
+        window.onload = showMessage;
+    </script>
+</body>
