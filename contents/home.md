@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Undergraduate's degree in XX at the Huangzhong University of Science and Technology.
+I'm currently pursuing a Undergraduate's degree in Marine Engineer at the Huangzhong University of Science and Technology.
 
 #### Email  
 <code>3473864880@qq.com</code>  
