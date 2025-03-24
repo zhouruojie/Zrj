@@ -7,7 +7,6 @@ I'm currently pursuing a Undergraduate's degree in Marine Engineer at the Huangz
 
 #### Education  
 **Huangzhong University of Science and Technology**, Undergraduate(2024 – 2028)  
-• GPA: 75/100  
 
 #### Research Interests  
 Marine Engineer
