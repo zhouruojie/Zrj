@@ -1,12 +1,57 @@
-<head><title>嘿，这是一个对话框</title></head>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript 按钮示例</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
 <body>
+    <div class="button-container">
+        <button onclick="showDialog()">弹出对话框</button>
+        <button onclick="showTime()">显示当前时间</button>
+        <button onclick="changeBackground()">改变背景颜色</button>
+    </div>
+
     <script>
-        function showMessage() {
-            const randomColor = Math.floor(Math.random()*16777215).toString(16);
-            document.body.style.backgroundColor = "#" + randomColor;
-            const currentTime = new Date().toString();
+        function showDialog() {
+            alert("嘿，这是一个对话框");
+        }
+
+        function showTime() {
+            const currentTime = new Date().toLocaleTimeString();
             alert("当前时间: " + currentTime);
         }
-        window.onload = showMessage;
+
+        function changeBackground() {
+            const randomColor = Math.floor(Math.random() * 16777215).toString(16);
+            document.body.style.backgroundColor = "#" + randomColor;
+        }
     </script>
 </body>
+</html>
